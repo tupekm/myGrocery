@@ -15,3 +15,6 @@ You will be able to send your list to Android device, and also you will be able 
 For know this i just idea in development
 
 Description will be updated as i make progress on app.
+
+First letter of item name is forced to be uppercase
+Integer conversion for qunatity.
