@@ -18,4 +18,3 @@ Description will be updated as i make progress on app.
 
 First letter of item name is forced to be uppercase
 Integer conversion for qunatity.
-Test
