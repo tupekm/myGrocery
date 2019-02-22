@@ -5,6 +5,8 @@ import java.util.*;
 
 import javax.servlet.annotation.WebServlet;
 
+import org.jsoup.Jsoup;
+
 import com.vaadin.annotations.Theme;
 import com.vaadin.annotations.VaadinServletConfiguration;
 import com.vaadin.server.VaadinRequest;
